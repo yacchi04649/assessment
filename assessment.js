@@ -71,7 +71,8 @@ const answers = [
 	'{userName}の晩ごはんはお刺身です。',
 	'{userName}の晩ごはんはトンカツです。',
 	'{userName}の晩ごはんはチキン味噌カツです。',
-	'{userName}の晩ごはんはきりたんぽ鍋です。'
+	'{userName}の晩ごはんはきりたんぽ鍋です。',
+	'{userName}の晩ごはんは焼鳥です。'
 ];
 
 /**
